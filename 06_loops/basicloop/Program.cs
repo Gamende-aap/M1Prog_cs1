@@ -11,4 +11,4 @@ class Program
             Console.WriteLine($"{i + 1}: {Nummers[i]}");
          }
     }
-} 
+}  
