@@ -1,8 +1,9 @@
 ﻿namespace autoclass;
 
-class Auto
+class Program
 {
-    internal string Merk;
-    internal int Bouwjaar;
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, World!");
+    }
 }
-
